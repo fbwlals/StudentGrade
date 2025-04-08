@@ -18,4 +18,3 @@ public class BasicEvaluation implements GradeEvaluation {
         return grade;
     }
 }
-
